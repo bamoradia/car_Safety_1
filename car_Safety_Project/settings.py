@@ -1,4 +1,4 @@
-import django_heroku
+# import django_heroku
 """
 Django settings for car_Safety_Project project.
 
@@ -147,5 +147,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-# Activate Django-Heroku.
-django_heroku.settings(locals())
+# # Activate Django-Heroku.
+# django_heroku.settings(locals())
