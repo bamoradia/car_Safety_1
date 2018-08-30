@@ -101,10 +101,10 @@ CORS_ORIGIN_WHITELIST = (
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'ddkqpjq9d5vn7m',
-        'USER': 'lkrpfinygpwast',
-        'PASSWORD': 'd471a52b252c22756b2b36de58b5436f495b7b394dc32fda9ff1458436d70fe7',
-        'HOST': 'ec2-54-163-246-5.compute-1.amazonaws.com',
+        'NAME': 'dafuoaq5oc8573',
+        'USER': 'xxrqcljhnvuxhu',
+        'PASSWORD': '9d54a41ca8f16471429a03b58a4abf6d6f76d3b568430faa4dbafc25a9305456',
+        'HOST': 'ec2-50-16-196-57.compute-1.amazonaws.com',
         'PORT': 5432,
     }
 }
